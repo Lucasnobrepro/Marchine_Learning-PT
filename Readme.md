@@ -42,13 +42,13 @@
      
 ## Referencias 
 
-### 01: Naive Bayes: 
+##### 01: Naive Bayes: 
     https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/
     https://minerandodados.com.br/naive-bayes-machine-learning/
     
-### 02: Ávore de Decisões:
+##### 02: Ávore de Decisões:
     https://medium.com/machine-learning-beyond-deep-learning/%C3%A1rvores-de-decis%C3%A3o-3f52f6420b69
     http://web.tecnico.ulisboa.pt/ana.freitas/bioinformatics.ath.cx/bioinformatics.ath.cx/indexf23d.html?id=199
     
-### 03: Random Florest:
+##### 03: Random Florest:
     https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8
