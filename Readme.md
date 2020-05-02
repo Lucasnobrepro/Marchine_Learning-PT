@@ -34,11 +34,34 @@
 
 ### 04: Aprendizagem por Regras
     
-### 05: kNN - K-Nearest Neighbors
+### 05: KNN - K-Nearest Neighbors
+    -KNN(K — Nearest Neighbors) é um dos muitos algoritmo usado no campo de machine learning, ele é um classificador onde o aprendizado     é baseado “no quão similar” é um dado (um vetor) do outro. O KNN usa o como base para encontar a similaridade a distancia de cada       dado não classificado, usando distâncias como Euclidiana, Manhattan, Minkowski ou Ponderada, dos dados que já estão classificados.
 
 ### 06: Regressão Logística
 
 ### 07: SVM - Support Vector Machine
+
+### 08-Neural_Network
+
+### 09-Cross_Validation
+
+### 10-Salvando_models
+
+### 11-Combinacao_de_Models
+
+### 12-Regressao_Linear
+
+### 13-Regressao_Polinomial
+
+### 14-Algoritmo_Apriori
+
+### 15-K-means
+
+### 16-Cluster_Hierarquico
+
+### 17-Cluster_DBSCAN
+
+### 18-Reducao_de_Dimensionalidade
      
 ## Referencias 
 
@@ -52,3 +75,33 @@
     
 ##### 03: Random Florest:
     https://medium.com/machina-sapiens/o-algoritmo-da-floresta-aleat%C3%B3ria-3545f6babdf8
+    
+##### 05: KNN - K-Nearest Neighbors
+    https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e
+    
+##### 06: Regressão Logística
+
+##### 07: SVM - Support Vector Machine
+
+##### 08-Neural_Network
+
+##### 09-Cross_Validation
+
+##### 10-Salvando_models
+
+##### 11-Combinacao_de_Models
+
+##### 12-Regressao_Linear
+
+##### 13-Regressao_Polinomial
+
+##### 14-Algoritmo_Apriori
+
+##### 15-K-means
+
+##### 16-Cluster_Hierarquico
+
+##### 17-Cluster_DBSCAN
+
+##### 18-Reducao_de_Dimensionalidade
+    
