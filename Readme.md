@@ -41,27 +41,27 @@
 
 ### 07: SVM - Support Vector Machine
 
-### 08-Neural_Network
+### 08: Neural_Network
 
-### 09-Cross_Validation
+### 09: Cross_Validation
 
-### 10-Salvando_models
+### 10: Salvando_models
 
-### 11-Combinacao_de_Models
+### 11: Combinacao_de_Models
 
-### 12-Regressao_Linear
+### 12: Regressao_Linear
 
-### 13-Regressao_Polinomial
+### 13: Regressao_Polinomial
 
-### 14-Algoritmo_Apriori
+### 14: Algoritmo_Apriori
 
-### 15-K-means
+### 15: K-means
 
-### 16-Cluster_Hierarquico
+### 16: Cluster_Hierarquico
 
-### 17-Cluster_DBSCAN
+### 17: Cluster_DBSCAN
 
-### 18-Reducao_de_Dimensionalidade
+### 18: Reducao_de_Dimensionalidade
      
 ## Referencias 
 
@@ -83,25 +83,25 @@
 
 ##### 07: SVM - Support Vector Machine
 
-##### 08-Neural_Network
+##### 08: Neural_Network
 
-##### 09-Cross_Validation
+##### 09: Cross_Validation
 
-##### 10-Salvando_models
+##### 10: Salvando_models
 
-##### 11-Combinacao_de_Models
+##### 11: Combinacao_de_Models
 
-##### 12-Regressao_Linear
+##### 12: Regressao_Linear
 
-##### 13-Regressao_Polinomial
+##### 13: Regressao_Polinomial
 
-##### 14-Algoritmo_Apriori
+##### 14: Algoritmo_Apriori
 
-##### 15-K-means
+##### 15: K-means
 
-##### 16-Cluster_Hierarquico
+##### 16: Cluster_Hierarquico
 
-##### 17-Cluster_DBSCAN
+##### 17: Cluster_DBSCAN
 
-##### 18-Reducao_de_Dimensionalidade
+##### 18: Reducao_de_Dimensionalidade
     
