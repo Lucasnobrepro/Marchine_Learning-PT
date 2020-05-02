@@ -35,7 +35,7 @@
 ### 04: Aprendizagem por Regras
     
 ### 05: KNN - K-Nearest Neighbors
-    -KNN(K — Nearest Neighbors) é um dos muitos algoritmo usado no campo de machine learning, ele é um classificador onde o aprendizado     é baseado “no quão similar” é um dado (um vetor) do outro. O KNN usa o como base para encontar a similaridade a distancia de cada       dado não classificado, usando distâncias como Euclidiana, Manhattan, Minkowski ou Ponderada, dos dados que já estão classificados.
+    -KNN(K — Nearest Neighbors) é um dos muitos algoritmo usado no campo de machine learning, ele é um classificador onde o aprendizado é baseado “no quão similar” é um dado (um vetor) do outro. O KNN usa o como base para encontar a similaridade a distancia de cada dado não classificado, usando distâncias como Euclidiana, Manhattan, Minkowski ou Ponderada, dos dados que já estão classificados.
 
 ### 06: Regressão Logística
 
