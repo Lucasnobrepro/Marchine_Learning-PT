@@ -35,11 +35,19 @@
 ### 04: Aprendizagem por Regras
     
 ### 05: KNN - K-Nearest Neighbors
-    -KNN(K — Nearest Neighbors) é um dos muitos algoritmo usado no campo de machine learning, ele é um classificador onde o aprendizado 
-    é baseado “no quão similar” é um dado (um vetor) do outro. O KNN usa o como base para encontar a similaridade a distancia de cada 
-    dado não classificado, usando distâncias como Euclidiana, Manhattan, Minkowski ou Ponderada, dos dados que já estão classificados.
+    -KNN(K — Nearest Neighbors) é um dos muitos algoritmo usado no campo de machine learning, ele é um classificador
+    onde o aprendizado é baseado “no quão similar” é um dado (um vetor) do outro. O KNN usa o como base para encontar 
+    a similaridade a distancia de cada dado não classificado, usando distâncias como Euclidiana, Manhattan, Minkowski 
+    ou Ponderada, dos dados que já estão classificados.
 
 ### 06: Regressão Logística
+     -A Regressão Logística é uma regressão múltipla, mas com uma variável de saída categórica binária (dependente) e
+     variáveis preditivas (explicativas ou independentes) contínuas ou categóricas. Quando a variável dependente é 
+     binária (como sim/não), não podemos usar a regressão linear. Optamos por isso por uma transformação logarítmica 
+     e procedemos para a analisar o grau preditivo da(s) variável(is) independente(s).
+     
+     -É uma das funções que possui a curva de forma “S” utilizada para a classificação binária. Converte valores para
+     o intervalo de 0, 1 que interpretou como uma probabilidade de ocorrer algum evento
 
 ### 07: SVM - Support Vector Machine
 
@@ -52,6 +60,13 @@
 ### 11: Combinacao_de_Models
 
 ### 12: Regressao_Linear
+    -O algoritmo de Regressão linear usará os pontos de dados para encontrar a melhor linha de ajuste para modelar os 
+    dados. Uma linha pode ser representada pela equação, y = m * x + c onde y é a variável dependente e x é a variável
+    independente. As teorias básicas de cálculo são aplicadas para encontrar os valores para m e c usando o conjunto 
+    de dados fornecido.
+    
+    -A Regressão linear tem 2 tipos como Regressão linear simples, onde são utilizadas apenas 1 variável independente 
+    e Regressão linearmúltipla, onde múltiplas variáveis independentes são definidas.
 
 ### 13: Regressao_Polinomial
 
@@ -82,6 +97,8 @@
     https://medium.com/brasil-ai/knn-k-nearest-neighbors-1-e140c82e9c4e
     
 ##### 06: Regressão Logística
+    https://pcodinomebzero.neocities.org/Pages/regressao_logistica.html
+    https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-máquinas-machine-learning-que-você-precisa-saber-c49f9eefe319
 
 ##### 07: SVM - Support Vector Machine
 
@@ -94,6 +111,7 @@
 ##### 11: Combinacao_de_Models
 
 ##### 12: Regressao_Linear
+    https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-máquinas-machine-learning-que-você-precisa-saber-c49f9eefe319
 
 ##### 13: Regressao_Polinomial
 
