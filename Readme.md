@@ -73,6 +73,13 @@
 ### 14: Algoritmo_Apriori
 
 ### 15: K-means
+    -Este é um algoritmo sem supervisão que fornece uma solução para o problema de agrupamento. O algoritmo segue um
+    procedimento para formar clusters que contêm pontos de dados homogêneos.
+    
+    -O valor de k é uma entrada para o algoritmo. Com base nisso, o algoritmo seleciona k número de centroides. Em seguida,
+    os pontos de dados vizinhos para um centróide se combinam com o centroide e criam um cluster. Mais tarde, um novo centróide
+    é criado dentro de cada cluster. Em seguida, os pontos de dados próximos ao novo centróide serão combinados novamente 
+    para expandir o cluster. Esse processo é continuado até que os centroides não mudem.
 
 ### 16: Cluster_Hierarquico
 
@@ -80,7 +87,7 @@
 
 ### 18: Reducao_de_Dimensionalidade
      
-## Referencias 
+## Referencias e Fontes
 
 ##### 01: Naive Bayes: 
     https://www.organicadigital.com/blog/algoritmo-de-classificacao-naive-bayes/
@@ -118,6 +125,7 @@
 ##### 14: Algoritmo_Apriori
 
 ##### 15: K-means
+    https://medium.com/@cristianofurquim/10-algoritmos-de-aprendizagem-de-máquinas-machine-learning-que-você-precisa-saber-c49f9eefe319
 
 ##### 16: Cluster_Hierarquico
 
